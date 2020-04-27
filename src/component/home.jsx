@@ -1,5 +1,6 @@
 import React from "react";
 import axios from "axios";
+import MaterialIcon from 'material-icons-react';
 
 class Home extends React.Component {
     constructor(props) {
@@ -68,6 +69,7 @@ class Home extends React.Component {
                                             >
                                                 accessible
                                             </i>
+                                            <MaterialIcon />
                                         </div>
                                     </div>
                                 </div>
