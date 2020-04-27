@@ -106,7 +106,7 @@ class Indonesia extends React.Component{
                             <div class="card">
                                 <div class="card-header ">
                                     <h3 class="card-title">
-                                        Kasus Coronavirus Global
+                                        Kasus Coronavirus Provinsi Di Indonesia
                                     </h3>
                                 </div>
                                 <div class="card-body">
