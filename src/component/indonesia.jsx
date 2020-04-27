@@ -56,14 +56,6 @@ class Indonesia extends React.Component{
                                                 orang
                                             </p>
                                         </div>
-                                        <div class="ml-auto">
-                                            <i
-                                                className="material-icons text-white"
-                                                style={{ fontSize: "50px" }}
-                                            >
-                                                accessible
-                                            </i>
-                                        </div>
                                     </div>
                                 </div>
                             </div>
@@ -84,14 +76,6 @@ class Indonesia extends React.Component{
                                                 orang
                                             </p>
                                         </div>
-                                        <div class="ml-auto">
-                                            <i
-                                                className="material-icons text-white"
-                                                style={{ fontSize: "50px" }}
-                                            >
-                                                sentiment_very_dissatisfied
-                                            </i>
-                                        </div>
                                     </div>
                                 </div>
                             </div>
@@ -111,14 +95,6 @@ class Indonesia extends React.Component{
                                             <p className="text-white mb-0">
                                                 orang
                                             </p>
-                                        </div>
-                                        <div class="ml-auto">
-                                            <i
-                                                className="material-icons text-white"
-                                                style={{ fontSize: "50px" }}
-                                            >
-                                                sentiment_very_satisfied
-                                            </i>
                                         </div>
                                     </div>
                                 </div>
